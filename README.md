@@ -26,10 +26,10 @@ Invoice Web Application Using Bootstrap AdminLTE Template
 - JQuery
 
 # Development Environment
-- Microsoft Visual Studio 2017 Community Edition
+- Microsoft Visual Studio 2022 Community Edition
 - SQL Server Express
 - SQL Server Express LocalDB
-- Windows 10
+- Windows 11
 
 # Running The Projects
 - Open the project using Visual Studio
